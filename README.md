@@ -1,4 +1,4 @@
-# **Generative AI for Fake News Article Generation: Style-Controlled Synthesis with CNN and DailyMail & Generative Image**
+# **Fake News Gen and Image Gen**
 
 
 ## 1. Project Overview
