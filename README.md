@@ -55,3 +55,8 @@ This study highlights the capabilities of modern generative AI systems not only 
 - Expanding the system to multi-modal generation (e.g., headline + image + article bundles)
 - Enhancing stylistic control to finer levels (e.g., political leaning, emotional framing)
 - Integrating adversarial detectors to monitor and mitigate potential misuse in misinformation scenarios
+
+
+## **Demo**
+- **Demo:** [Watch Demo](https://youtu.be/OQLjNcveBJc)
+- **Website:** [View Project Website](https://v0-python-text-to-image.vercel.app/)
