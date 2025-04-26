@@ -1,0 +1,4 @@
+
+- GitHub Repository Link: https://github.com/hsu-ph/002244953_-FakeNewsGenandImage-Gen_Pei-Han-Hsu
+- Demo: https://youtu.be/OQLjNcveBJc
+- Website: https://v0-python-text-to-image.vercel.app/
