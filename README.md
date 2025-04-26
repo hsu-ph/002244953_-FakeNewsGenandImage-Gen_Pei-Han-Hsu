@@ -62,7 +62,7 @@ Optional Components:
 
 
 
-## ⚙5. Setup Instructions
+## 5. Setup Instructions
 
 1. **Clone the repository**
    ```bash
